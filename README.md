@@ -1,4 +1,4 @@
- Here's a glimpse of the projects I've contributed to:
+Welcome to my Data Science Internship repository! During my internship, I had the opportunity to work on a variety of projects, applying data science techniques to solve real-world problems. Here's a glimpse of the projects I've contributed to:
 
 Hate Speech Detection:
 
